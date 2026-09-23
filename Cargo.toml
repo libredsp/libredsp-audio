@@ -1,0 +1,8 @@
+[package]
+name = "libredsp-audio"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+libredsp = "0.1.10"
+hound = "3"
