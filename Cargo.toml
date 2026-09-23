@@ -1,7 +1,10 @@
 [package]
 name = "libredsp-audio"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+description = "Audio processing library built on top of LibreDSP"
+license = "Apache-2.0"
+repository = "https://github.com/libredsp/libredsp-audio"
 
 [dependencies]
 libredsp = "0.1.10"
